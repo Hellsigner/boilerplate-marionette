@@ -1,0 +1,5 @@
+{
+    "mainConfigFile": "main.js",
+    "name": "../../../main",
+    "out": "../dist/js/main-built.js"
+}
