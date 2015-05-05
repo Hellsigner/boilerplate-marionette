@@ -85,4 +85,6 @@ src/js/app/_from_boilerplate
 
 src/js/app/options.local.js
 
+dist/!.gitkeep
 dist/*
+
